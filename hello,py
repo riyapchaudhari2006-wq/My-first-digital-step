@@ -1,0 +1,19 @@
+# My First Digital Step
+
+print("Hello GitHub! 👋")
+print("Welcome to my first repository.")
+
+name = input("What is your name? ")
+
+print("\nHi", name, "!")
+print("I am Riya.")
+print("I am learning Python and GitHub.")
+print("This is my first step in my coding journey.")
+
+print("\nMy current interests:")
+print("1. Python")
+print("2. Web Development")
+print("3. Data Analytics")
+print("4. AI and Machine Learning")
+
+print("\nSmall steps, big dreams! 🌱")
