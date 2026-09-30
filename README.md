@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi!! I’m a Computer Engineering student interested in AI/ML, Data <br>Analytics , Data Science, and Web Development . <br> I’m currently building beginner-friendly projects and improving<br> my skills in Python, SQL, HTML, CSS, and Machine Learning. <br> I’m always interested in learning new technologies, collaborating<br> on projects, and gaining practical experience.<br> I enjoy turning what I learn into simple projects and<br> exploring new ideas along the way. 🚀
+Hii there 👋, I'm Riya, a Computer Engineering student passionate about<br>turning data into meaningful insights and ideas into practical web  <br>applications. I have basic knowledge of Python, SQL, Java, HTML, CSS,<br>and AI/ML,and I'm continuously learning and exploring new technologies.  <br>I enjoy building simple projects, solving  problems, and  improving my <br>skills through hands-on experience.<br>
 
 
 # 💻 Tech Stack:
