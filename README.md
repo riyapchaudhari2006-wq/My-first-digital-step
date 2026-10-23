@@ -1,4 +1,4 @@
-**🥇 𖤐 Curiosity, Compiled**
+##🥇Who Am I?
 Hii there!👋, I'm Riya Chaudhari, a Computer Engineering student passionate about<br>turning data into meaningful insights and ideas into practical web  <br>applications. I have basic knowledge of Python, SQL, Java, HTML, CSS,<br>and AI/ML,and I'm continuously learning and exploring new technologies.  <br>I enjoy in building real world simple projects, solving  problems, and  improving my <br>skills through hands-on experience.<br>
 
 
